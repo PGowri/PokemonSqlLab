@@ -3,3 +3,6 @@ Found Eevee when did a query
 Found 656 pokemons
 Found 18 types
 Found 316 secondar_type which is not null
+Part 3
+Was able to join the pokemon names with the type names
+Rufflet = Flying
