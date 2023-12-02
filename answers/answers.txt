@@ -1,0 +1,5 @@
+Found 18 types of pokemon when did a query
+Found Eevee when did a query
+Found 656 pokemons
+Found 18 types
+Found 316 secondar_type which is not null
